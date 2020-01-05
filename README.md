@@ -1,0 +1,1 @@
+This is Ildar's git training project
